@@ -11,7 +11,6 @@ TagManager:
   - 
   - Water
   - UI
-  - Portal
   - StencilMask1
   - StencilMask2
   - 
@@ -21,21 +20,22 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Room1
+  - Room2
+  - Room3
+  - Room4
+  - Room5
+  - Room6
+  - Room7
+  - Room8
+  - StencilRoom1
+  - StencilRoom2
+  - StencilRoom3
+  - StencilRoom4
+  - StencilRoom5
+  - StencilRoom6
+  - StencilRoom7
+  - StencilRoom8
   - 
   m_SortingLayers:
   - name: Default
