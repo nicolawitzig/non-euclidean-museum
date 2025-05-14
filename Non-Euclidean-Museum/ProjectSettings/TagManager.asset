@@ -15,8 +15,8 @@ TagManager:
   - UI
   - StencilMask1
   - StencilMask2
-  - Player
-  - 
+  - PlayerLayer
+  - Holdable
   - 
   - 
   - 

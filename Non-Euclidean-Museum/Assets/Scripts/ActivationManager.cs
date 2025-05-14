@@ -6,12 +6,16 @@ using System.Linq;
 public class ActivationManager : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public Player player;
+    public GameObject playerObject;
+    private Transform playerTransform;
     List<GameObject> rooms = new List<GameObject>();
     GameObject[] allObjects;
     GameObject previousRoom;
     void Awake()
     {
+        if (playerTransform == null && playerObject != null)
+            playerTransform = playerObject.transform;
+
         allObjects = GameObject.FindObjectsByType<GameObject>(FindObjectsSortMode.None);
         foreach (GameObject obj in allObjects)
         {
@@ -99,13 +103,18 @@ public class ActivationManager : MonoBehaviour
 
     public GameObject CurrentRoom()
     {
+            if (playerObject == null)
+    {
+        Debug.LogError("ActivationManager.player is still null!");
+        return null;
+    }
         float minDistance = float.MaxValue;
         GameObject closestRoom = null;
 
         foreach (GameObject room in rooms)
         {
             if (!room.activeInHierarchy) continue;
-            float distance = Vector3.Distance(player.transform.position, room.transform.position);
+            float distance = Vector3.Distance(playerTransform.position, room.transform.position);
             if (distance < minDistance)
             {
                 minDistance = distance;
