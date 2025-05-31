@@ -28,7 +28,7 @@ Using stencil buffers also allows for cool effects like the **Impossible Cube**:
 
 https://github.com/user-attachments/assets/5ac31ca1-9e88-413c-bc7a-ec726d1c12bd
 
-This project was very much inspited by the YouTube videos CodeParade (check out their [Non-Euclidean World Engine video](https://www.youtube.com/watch?v=kEB11PQ9Eo8) or their Hyperbolica DevLog series).
+This project was very much inspited by the YouTube videos by CodeParade (check out their [Non-Euclidean World Engine video](https://www.youtube.com/watch?v=kEB11PQ9Eo8) or their Hyperbolica DevLog series).
 
 ---
 
