@@ -12,9 +12,9 @@
 
 ## Quick Look: Try to keep count of how many different exhibition rooms you see
 
-**Add pov video walkthrouhg here**
 
-`[Placeholder for your walkthrough video`
+https://github.com/user-attachments/assets/8b5a83c8-77c9-4a29-a4b6-98af580155bc
+
 
 ---
 
