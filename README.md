@@ -26,6 +26,8 @@ This project is only a **proof-of-concept**, primarily demonstrating the possibi
 
 Using stencil buffers also allows for cool effects like the **Impossible Cube**: Depending on which face you peer into, you'll see entirely different "pockets" of space:
 
+https://github.com/user-attachments/assets/5ac31ca1-9e88-413c-bc7a-ec726d1c12bd
+
 This project was very much inspited by the YouTube videos CodeParade (check out their [Non-Euclidean World Engine video](https://www.youtube.com/watch?v=kEB11PQ9Eo8) or their Hyperbolica DevLog series).
 
 ---
