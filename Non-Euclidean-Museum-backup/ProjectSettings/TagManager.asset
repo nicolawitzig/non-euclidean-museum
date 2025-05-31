@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - projectile
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - StencilMask1
+  - StencilMask2
+  - PlayerLayer
+  - Holdable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Room1
+  - Room2
+  - Room3
+  - Room4
+  - Room5
+  - Room6
+  - Room7
+  - Room8
+  - StencilRoom1
+  - StencilRoom2
+  - StencilRoom3
+  - StencilRoom4
+  - 
+  - StencilRoom6
+  - StencilRoom7
+  - StencilRoom8
+  - StencilRoomFix5
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
