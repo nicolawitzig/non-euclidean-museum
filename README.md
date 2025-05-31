@@ -45,7 +45,7 @@ This project was very much inspited by the YouTube videos CodeParade (check out 
 
 ### Prerequisites:
 
-1. **Unity Hub** and **Unity Editor 2022.3.2f1** (or a newer compatible version).
+1. **Unity Hub** and **Unity Editor 6000.0.32f** (or a newer compatible version).
 2. **SteamVR** installed on your system.
 3. A **SteamVR-compatible VR Headset** (e.g., HTC Vive, Valve Index, Oculus Rift/Quest with Link).
 
