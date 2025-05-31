@@ -1,6 +1,6 @@
 # Non-Euclidean VR Museum: Making arbatrarily big museums when physical space is limited
 
-![](https://img.shields.io/badge/Unity-2022.3.2f1-blue.svg)
+![](https://img.shields.io/badge/Unity-6000.0.32f-blue.svg)
 
 ![](https://img.shields.io/badge/Render%20Pipeline-URP-green.svg)
 
@@ -32,7 +32,7 @@ This project was very much inspited by the YouTube videos CodeParade (check out 
 
 ## Technology Stack
 
-- **Unity Engine:** Developed with version `2022.3.2f1` (newer versions likely also compatible).
+- **Unity Engine:** Developed with version `6000.0.32f` (newer versions likely also compatible).
 - **Universal Render Pipeline (URP):** Worked well for me.
 - **SteamVR Plugin:** Allows to easily bring Unity project to different VR devices.
 - **Stencil Buffer Manipulation:** Custom shader and materials to change stencil values in the GPUs stencil buffer.
