@@ -1,4 +1,4 @@
-# Non-Euclidean VR Museum: Making arbatrarily big museums when physical space is limited
+# Non-Euclidean VR Museum: Making arbitrarily big museums when physical space is limited
 
 ![](https://img.shields.io/badge/Unity-6000.0.32f-blue.svg)
 
