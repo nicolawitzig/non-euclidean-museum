@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/VR-SteamVR-orange.svg)
 
-**In VR applications we often havt the problem that the players phyiscal space is limited. By ditching the Euclidean axioms we can overcome this constraint and provide a much bigger space to explore than would actually be possible**
+**In VR applications we often have the problem that the players phyiscal space is limited. By ditching the Euclidean axioms we can overcome this constraint and provide a much bigger space to explore than would actually be possible**
 
 ---
 
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/8b5a83c8-77c9-4a29-a4b6-98af580155bc
 
 ## Project Overview
 
-The main trick to achieve thsi is using **stencil buffer portal techniques**, to make this feel like a much larger environment. Imagine in this demo **8 distinct rooms seamlessly connect within the physical space of just 4 rooms!**.
+The main trick to achieve this is using **stencil buffer portal techniques**, to make this feel like a much larger environment. Imagine in this demo **8 distinct rooms seamlessly connect within the physical space of just 4 rooms!**.
 
 This project is only a **proof-of-concept**, primarily demonstrating the possibilities of non-euclidean level design in VR. Many differnet level designs would be possible this one is rather simple just doubling the amount of rooms. However, this technique of stencil portals is not at all limited to this. It allows for an arbitrary number of rooms. This means we can both extend a space by adding rooms but also make a space feel much smaller down to having only one room. Since I'm more interested in the concept and I'm terrible at modelling the current artworks are just geometric shapes to illustrate the concept. In the video demonstration free models from the asset store were used to make it feel less stale.
 
